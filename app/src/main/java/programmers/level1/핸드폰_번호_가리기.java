@@ -38,7 +38,6 @@ class Solution {
 //String.substring(start, end) start부터 end 전까지
 
 //예제
-//String str = "ABCDEFG";
-//A=0 B=1 C=2 D=3 E=4 F=5 G=6의 index를 가진다
+//String str = "ABCDEFG"; A=0, B=1, C=2, D=3, E=4, F=5, G=6의 index를 가진다
 //str.substring(3); => DEFG
 //str.substring(3, 6); => DEF
