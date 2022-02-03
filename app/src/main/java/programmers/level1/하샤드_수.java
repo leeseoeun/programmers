@@ -7,7 +7,7 @@ public class 하샤드_수 {
     int i = x;
     int total = 0;
 
-    while (i != 0) {
+    while (i != 0) {    //total, i의 순서 주의!
       total += i % 10;
       i = i / 10;
     }
