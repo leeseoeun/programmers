@@ -30,7 +30,7 @@ class Solution {
   }
 }
 
-/* subString */
+/* substring */
 //문자열 자르기
 
 //사용법
