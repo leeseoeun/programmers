@@ -1,6 +1,6 @@
 package programmers.level1;
 
-public class 평균_구하기 {
+public class j06_평균구하기 {
   public double solution(int[] arr) {
     double answer = 0;
 

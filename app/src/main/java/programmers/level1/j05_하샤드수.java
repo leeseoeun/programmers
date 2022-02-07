@@ -1,6 +1,6 @@
 package programmers.level1;
 
-public class 하샤드_수 {
+public class j05_하샤드수 {
   public boolean solution(int x) {
     boolean answer = true;
 
