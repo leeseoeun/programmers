@@ -1,6 +1,6 @@
-package programmers.level1;
+package programmers.java.level1;
 
-public class j07_콜라츠추측 {
+public class _07_콜라츠추측 {
   public int solution(int num) {
     int answer = 0;
 

@@ -1,6 +1,6 @@
-package programmers.level1;
+package programmers.java.level1;
 
-public class j04_핸드폰번호가리기 {
+public class _04_핸드폰번호가리기 {
   public String solution(String phone_number) {
     String answer = "";
 

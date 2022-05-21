@@ -1,6 +1,6 @@
-package programmers.level1;
+package programmers.java.level1;
 
-public class j09_짝수와홀수 {
+public class _09_짝수와홀수 {
   public String solution(int num) {
     //    String answer = "";
 

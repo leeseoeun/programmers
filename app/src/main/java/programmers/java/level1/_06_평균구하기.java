@@ -1,6 +1,6 @@
-package programmers.level1;
+package programmers.java.level1;
 
-public class j06_평균구하기 {
+public class _06_평균구하기 {
   public double solution(int[] arr) {
     double answer = 0;
 

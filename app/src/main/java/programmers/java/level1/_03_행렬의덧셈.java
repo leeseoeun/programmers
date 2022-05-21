@@ -1,6 +1,6 @@
-package programmers.level1;
+package programmers.java.level1;
 
-public class j03_행렬의덧셈 {
+public class _03_행렬의덧셈 {
   public int[][] solution(int[][] arr1, int[][] arr2) {
     int[][] answer = new int[arr1.length][arr1[0].length];  //'열'은 첫번째 배열의 길이
 
