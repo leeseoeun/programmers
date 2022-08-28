@@ -30,7 +30,7 @@ application {
     mainClass = 'programmers.App'
 }
 
-eclipse{
+eclipse {
     project {
         name = "programmers"
     }
