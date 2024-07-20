@@ -1,4 +1,4 @@
-package programmers.java.level1;
+package programmers.lv1;
 
 public class _05_하샤드수 {
   public boolean solution(int x) {

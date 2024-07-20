@@ -1,4 +1,4 @@
-package programmers.java.level1;
+package programmers.lv1;
 
 public class _08_최대공약수와최소공배수 {
   public int[] solution(int n, int m) {

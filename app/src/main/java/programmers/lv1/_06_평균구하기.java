@@ -1,4 +1,4 @@
-package programmers.java.level1;
+package programmers.lv1;
 
 public class _06_평균구하기 {
   public double solution(int[] arr) {

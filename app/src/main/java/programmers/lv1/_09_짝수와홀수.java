@@ -1,4 +1,4 @@
-package programmers.java.level1;
+package programmers.lv1;
 
 public class _09_짝수와홀수 {
   public String solution(int num) {

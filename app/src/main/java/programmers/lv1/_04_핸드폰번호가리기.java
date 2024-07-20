@@ -1,4 +1,4 @@
-package programmers.java.level1;
+package programmers.lv1;
 
 public class _04_핸드폰번호가리기 {
   public String solution(String phone_number) {
