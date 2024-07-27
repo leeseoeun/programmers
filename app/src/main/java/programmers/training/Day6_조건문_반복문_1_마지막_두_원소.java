@@ -11,7 +11,7 @@ public class Day6_조건문_반복문_1_마지막_두_원소 {
       answer[i] = num_list[i];
     }
     if (answer[num_list.length - 1] - answer[num_list.length - 2] > 0) {
-      answer[num_list.length] = answer[num_list.length - 1] - answer[num_list.length - 2];
+      answer[num_list.length] = (answer[num_list.length - 1] - answer[num_list.length - 2]);
     } else {
       answer[num_list.length] = (answer[num_list.length - 1] * 2);
     }
