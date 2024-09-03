@@ -55,9 +55,36 @@ public class Day8_조건문_반복문_2_주사위_게임_3 {
         // 두 숫자만 같을 때
       case 1:
         return differentNum1 * differentNum2;
+
+        // 네 숫자가 모두 다를 때
       default:
         return minNum;
     }
+
+    /*
+     * int[] dice = { a, b, c, d };
+     * Arrays.sort(dice);
+     * 
+     * int ans = 0;
+     * 
+     * if (dice[0] == dice[3]) {
+     *  ans = 1111 * dice[3];
+     * } else if (dice[0] == dice[2] || dice[1] == dice[3]) {
+     *  ans = (int) Math.pow(dice[1] * 10 + (dice[0] + dice[3] - dice[1]), 2);
+     * } else if (dice[0] == dice[1] && dice[2] == dice[3]) {
+     *  ans = (dice[0] + dice[3]) * (dice[3] - dice[0]);
+     * } else if (dice[0] == dice[1]) {
+     *  ans = dice[2] * dice[3];
+     * } else if (dice[1] == dice[2]) {
+     *  ans = dice[0] * dice[3];
+     * } else if (dice[2] == dice[3]) {
+     *  ans = dice[0] * dice[1];
+     * } else {
+     *  ans = dice[0];
+     * }
+     * 
+     * return ans;
+     * */
   }
 
   public static void main(String[] args) {
