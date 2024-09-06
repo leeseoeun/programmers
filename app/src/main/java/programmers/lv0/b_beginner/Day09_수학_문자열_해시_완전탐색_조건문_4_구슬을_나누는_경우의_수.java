@@ -1,6 +1,6 @@
 package programmers.lv0.b_beginner;
 
-public class Day9_수학_문자열_해시_완전탐색_조건문_4_구슬을_나누는_경우의_수 {
+public class Day09_수학_문자열_해시_완전탐색_조건문_4_구슬을_나누는_경우의_수 {
 
   private static int cnt = 0;
 

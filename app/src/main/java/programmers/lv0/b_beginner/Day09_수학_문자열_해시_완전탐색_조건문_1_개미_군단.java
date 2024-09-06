@@ -1,6 +1,6 @@
 package programmers.lv0.b_beginner;
 
-public class Day9_수학_문자열_해시_완전탐색_조건문_1_개미_군단 {
+public class Day09_수학_문자열_해시_완전탐색_조건문_1_개미_군단 {
 
   public static int solution(int hp) {
     int answer = 0;
