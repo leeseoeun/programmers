@@ -1,6 +1,6 @@
 package programmers.lv0.a_training;
 
-public class Day20_함수_메소드_4_배열의_길이에_따라_다른_연산하기 {
+public class Day20_함수_메서드_4_배열의_길이에_따라_다른_연산하기 {
 
   public static int[] solution(int[] arr, int n) {
     int evenOrOdd = arr.length % 2 == 0 ? 1 : 0;

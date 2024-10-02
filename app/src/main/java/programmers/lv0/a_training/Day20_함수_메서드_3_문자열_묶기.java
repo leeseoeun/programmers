@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Day20_함수_메소드_3_문자열_묶기 {
+public class Day20_함수_메서드_3_문자열_묶기 {
 
   public static int solution(String[] strArr) {
     Map<Integer, Integer> map = new HashMap<>();

@@ -1,6 +1,6 @@
 package programmers.lv0.a_training;
 
-public class Day20_함수_메소드_2_배열_비교하기 {
+public class Day20_함수_메서드_2_배열_비교하기 {
 
   public static int solution(int[] arr1, int[] arr2) {
     if (arr1.length > arr2.length) {

@@ -1,6 +1,6 @@
 package programmers.lv0.a_training;
 
-public class Day20_함수_메소드_1_배열의_길이를_2의_거듭제곱으로_만들기 {
+public class Day20_함수_메서드_1_배열의_길이를_2의_거듭제곱으로_만들기 {
 
   public static int[] solution(int[] arr) {
     int num = arr.length;
